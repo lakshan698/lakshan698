@@ -1,9 +1,8 @@
 ## Hey there 👋, I'm [Thanuja Lakshan!](https://github.com/lakshan698/)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/LINKEDIN_USERNAME_HERE)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thanuja-lakshan-50411b386/)
 
 ### Glad to see you here! 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshan698&label=Profile%20views&color=0e75b6&style=flat" alt="lakshan698" /> </p>
 
 I am a **Data Science Undergraduate** at **SLIIT**, passionate about applying data-driven techniques and modern technologies to solve real-world problems. 🚀
 
