@@ -24,4 +24,4 @@ I love transforming raw data into actionable insights and building applications 
 * **Customer Shopping Behavior Analysis:** End-to-End ETL & Power BI Dashboard.
 * **Tea Plant Disease Detection:** Computer vision project using YOLO.
 
-[Connect on LinkedIn](Your_LinkedIn_URL_Here)
+
