@@ -51,12 +51,6 @@ I'm an explorer of new tech, an avid learner, and a problem-solver at heart.
 </details>
 
 <details>
-  <summary><b>☄️ Github Streaks</b></summary>
-  <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lakshan698&hide_border=true&theme=react" />
-</details>
-
-<details>
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
     <ul>
@@ -64,7 +58,6 @@ I'm an explorer of new tech, an avid learner, and a problem-solver at heart.
       <li><b>Code Editor:</b> VSCode & Jupyter Notebooks</li>
       <li><b>Database:</b> MS SQL Server Management Studio (SSMS)</li>
       <li><b>Visualization:</b> Power BI Desktop</li>
-      <li><b>To Stay Updated:</b> YouTube, Medium, and LinkedIn</li>
     </ul>
 </details>
 
