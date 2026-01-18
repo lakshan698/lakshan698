@@ -22,7 +22,7 @@ I'm an explorer of new tech, an avid learner, and a problem-solver at heart.
 
 ### Talking about Personal Stuff:
 
-- 🛠 &nbsp; I’m currently working & learning **Python, SQL Server, Excel, Power-BI, React & TaSpringboot**.
+- 🛠 &nbsp; I’m currently working & learning **Python, SQL Server, Excel, Power-BI, React & Springboot**.
 - 👨‍💻 &nbsp; Most of my projects are available on [GitHub](https://github.com/lakshan698).
 - 👾 &nbsp; Fun fact: I love turning coffee into code and data into insights.
 
