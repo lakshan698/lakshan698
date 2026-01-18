@@ -1,16 +1,27 @@
-## Hi there 👋
+### Hi, I'm Thanuja Lakshan! 🚀
 
-<!--
-**lakshan698/lakshan698** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Science Student | Software Enthusiast**
 
-Here are some ideas to get you started:
+I love transforming raw data into actionable insights and building applications that solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+#### 🔧 Languages & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+---
+
+#### 📊 My Stats
+![Lakshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=lakshan698&show_icons=true&theme=radical)
+
+---
+
+#### 🔭 Featured Projects
+* **Customer Shopping Behavior Analysis:** End-to-End ETL & Power BI Dashboard.
+* **Tea Plant Disease Detection:** Computer vision project using YOLO.
+
+[Connect on LinkedIn](Your_LinkedIn_URL_Here)
