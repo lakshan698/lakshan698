@@ -7,16 +7,17 @@
 
 I am a **Data Science Undergraduate** at **SLIIT**, passionate about applying data-driven techniques and modern technologies to solve real-world problems. 🚀
 
-I have a strong foundation in **Python, SQL, and Data Analysis**, with a growing interest in **Full Stack Development**. I enjoy building end-to-end solutions—from cleaning raw data to deploying machine learning models and building web interfaces.
-
+I am passionate about **Python, SQL, AI, Machine Learning and Data Science**, with a growing interest in **Full Stack Development**. I enjoy building end-to-end solutions—from cleaning raw data to deploying machine learning models and building web interfaces.
+ 
 I'm an explorer of new tech, an avid learner, and a problem-solver at heart.
 
 <hr>
-<h3 align="left">✨ Random Dev Quote:</h3>
+<h3 align="left">✨ Random  Quote:</h3>
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+  <img width="622" height="193" alt="image" src="https://github.com/user-attachments/assets/fe04e471-ff14-464c-9c38-e169ab7edcbd" alt="Dev Quote" />
 </p>
 <hr>
+
 
 <img align="right" height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" />
 
