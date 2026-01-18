@@ -56,8 +56,8 @@ I'm an explorer of new tech, an avid learner, and a problem-solver at heart.
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
     <ul>
       <li><b>OS:</b> Windows 11</li>
-      <li><b>Code Editor:</b> VSCode & Jupyter Notebooks</li>
-      <li><b>Database:</b> MS SQL Server Management Studio (SSMS)</li>
+      <li><b>Code Editor:</b> VSCode, Jupyter Notebooks, ...</li>
+      <li><b>Database:</b> MS SQL Server Management Studio (SSMS), ...</li>
       <li><b>Visualization:</b> Power BI Desktop</li>
     </ul>
 </details>
