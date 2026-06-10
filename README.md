@@ -11,15 +11,8 @@ I am passionate about **Data Engineering, AI/ML**. I enjoy building scalable end
 I'm an explorer of new tech, an avid learner, and a problem-solver at heart.
 
 <hr>
-<h3 align="left">✨ Random  Quote:</h3>
 <p align="center">
-  <img width="622" height="153" alt="image" src="https://github.com/user-attachments/assets/fe04e471-ff14-464c-9c38-e169ab7edcbd" alt="Dev Quote" />
-</p>
-<hr>
-
-<hr>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=CASE:It'snotpossible.Cooper:No.It'snecessary.&fontSize=24&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text= CASE:It's not possible. COOPER:No.It'snecessary.&fontSize=24&animation=fadeIn" />
 </p>
 <hr>
 
