@@ -17,8 +17,11 @@ I'm an explorer of new tech, an avid learner, and a problem-solver at heart.
 </p>
 <hr>
 
-
-<img align="right" height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" />
+<hr>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=CASE:It'snotpossible.Cooper:No.It'snecessary.&fontSize=24&animation=fadeIn" />
+</p>
+<hr>
 
 ### Talking about Personal Stuff:
 
@@ -44,3 +47,6 @@ I'm an explorer of new tech, an avid learner, and a problem-solver at heart.
 </p>
 
 <br/><br/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer"/>
+</div>
