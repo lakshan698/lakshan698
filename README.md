@@ -11,7 +11,7 @@ I am passionate about **Data Engineering, AI/ML**. I enjoy building scalable end
 I'm an explorer of new tech, an avid learner, and a problem-solver at heart.
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=26&duration=4500&pause=1200&color=58A6FF&center=true&vCenter=true&width=1000&lines=CASE%3A+It's+not+possible.;COOPER%3A+No.+It's+necessary.;Keep+Learning.;Keep+Building.;Keep+Growing." />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&height=160&section=header&text=CASE:%20It's%20not%20possible.%20COOPER:%20It's%20necessary.&fontSize=20&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 ### Talking about Personal Stuff:
