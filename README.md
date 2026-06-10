@@ -38,6 +38,6 @@ I'm an explorer of new tech, an avid learner, and a problem-solver at heart.
 </p>
 
 <br/><br/>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer"/>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=26&duration=4500&pause=1200&color=58A6FF&center=true&vCenter=true&width=1000&lines=Keep+Learning.;Keep+Building.;Keep+Growing." />
+</p>
