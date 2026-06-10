@@ -43,5 +43,4 @@ I'm an explorer of new tech, an avid learner, and a problem-solver at heart.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" title="VS Code" width="40" height="40"/>
 </p>
 
-<br/>
-#
+<br/><br/>
