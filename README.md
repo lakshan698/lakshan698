@@ -43,17 +43,5 @@ I'm an explorer of new tech, an avid learner, and a problem-solver at heart.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" title="VS Code" width="40" height="40"/>
 </p>
 
-<br/><br/>
-
-<br/><br/>
-
-### Projects and Dev Stuffs:
-
-<details>
-  <summary><b>⚡ Github Stats</b></summary>
-  <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lakshan698&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=react" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshan698&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=react"/>
-</details>
-
+<br/>
 #
