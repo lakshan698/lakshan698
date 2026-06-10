@@ -6,7 +6,7 @@
 
 I am a **Data Science Undergraduate** at **SLIIT**, passionate about applying data-driven techniques and modern technologies to solve real-world problems. 🚀
 
-I am passionate about **Python, SQL, AI, Machine Learning and Data Science**, with a growing interest in **Full Stack Development**. I enjoy building end-to-end solutions—from cleaning raw data to deploying machine learning models and building web interfaces.
+I am passionate about **Data Engineering, AI/ML**. I enjoy building scalable end to end data pipelines, designing data solutions, and leveraging machine learning to solve real-world problems.
  
 I'm an explorer of new tech, an avid learner, and a problem-solver at heart.
 
@@ -22,7 +22,7 @@ I'm an explorer of new tech, an avid learner, and a problem-solver at heart.
 
 ### Talking about Personal Stuff:
 
-- 🛠 &nbsp; I’m currently working & learning **Python, SQL Server, Excel, Power-BI, React & Springboot**.
+- 🛠 &nbsp; I’m currently working & learning **Python, SQL, Pyspark, Databricks, Cloud platforms and more...**.
 - 👨‍💻 &nbsp; Most of my projects are available on [GitHub](https://github.com/lakshan698).
 - 👾 &nbsp; Fun fact: I love turning coffee into code and data into insights.
 
@@ -63,7 +63,3 @@ I'm an explorer of new tech, an avid learner, and a problem-solver at heart.
 </details>
 
 #
-
-<div align="center">
-  <h3>Show some ❤️ by starring some of the repositories!</h3>
-</div>
