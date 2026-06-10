@@ -1,69 +1,180 @@
-## Hey there 👋, I'm [Thanuja Lakshan!](https://github.com/lakshan698/)
+<h1 align="center">Hi 👋, I'm Thanuja Lakshan</h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thanuja-lakshan-50411b386/)
+<h3 align="center">
+Aspiring Data Engineer & AI/ML Enthusiast 🚀
+</h3>
 
-### Glad to see you here! 
-
-I am a **Data Science Undergraduate** at **SLIIT**, passionate about applying data-driven techniques and modern technologies to solve real-world problems. 🚀
-
-I am passionate about **Python, SQL, AI, Machine Learning and Data Science**, with a growing interest in **Full Stack Development**. I enjoy building end-to-end solutions—from cleaning raw data to deploying machine learning models and building web interfaces.
- 
-I'm an explorer of new tech, an avid learner, and a problem-solver at heart.
-
-<hr>
-<h3 align="left">✨ Random  Quote:</h3>
 <p align="center">
-  <img width="622" height="153" alt="image" src="https://github.com/user-attachments/assets/fe04e471-ff14-464c-9c38-e169ab7edcbd" alt="Dev Quote" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=00C2FF&center=true&vCenter=true&width=800&lines=Data+Science+Undergraduate;Aspiring+Data+Engineer;AI+%26+Machine+Learning+Enthusiast;Python+%7C+SQL+%7C+PySpark+%7C+Databricks;Always+Learning+and+Building" />
 </p>
-<hr>
 
+<p align="center">
+<a href="https://github.com/lakshan698">
+<img src="https://komarev.com/ghpvc/?username=lakshan698&label=Profile%20Views&color=0e75b6&style=flat" />
+</a>
+</p>
 
-<img align="right" height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" />
+---
 
-### Talking about Personal Stuff:
+## 👨‍💻 About Me
 
-- 🛠 &nbsp; I’m currently working & learning **Python, SQL Server, Excel, Power-BI, React & Springboot**.
-- 👨‍💻 &nbsp; Most of my projects are available on [GitHub](https://github.com/lakshan698).
-- 👾 &nbsp; Fun fact: I love turning coffee into code and data into insights.
+🎓 Data Science Undergraduate at **SLIIT**
 
-### Languages and Tools:
+💡 Passionate about **Data Engineering, Artificial Intelligence, Machine Learning, and Cloud Technologies**
+
+📊 Interested in building scalable data pipelines, data warehouses, and intelligent systems
+
+🌱 Currently learning:
+
+- PySpark
+- Databricks
+- Delta Lake
+- Azure Data Engineering
+- Machine Learning
+
+🚀 Goal: Become a skilled **Data Engineer** while expanding expertise in **AI/ML Engineering**
+
+📫 Reach me at:
+
+- LinkedIn: https://www.linkedin.com/in/thanuja-lakshan-50411b386/
+- GitHub: https://github.com/lakshan698
+
+---
+
+## 🚀 Tech Stack
+
+### Programming Languages
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sql-server" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="tailwind" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/>
 </p>
 
-<br/><br/>
+### Data Engineering
 
-### Projects and Dev Stuffs:
+<p align="left">
+<img src="https://cdn.worldvectorlogo.com/logos/apache-spark-5.svg" width="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/databricks.svg" width="50"/>
+<img src="https://www.vectorlogo.zone/logos/deltaio/deltaio-icon.svg" width="50"/>
+</p>
 
-<details>
-  <summary><b>⚡ Github Stats</b></summary>
-  <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lakshan698&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=react" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshan698&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=react"/>
-</details>
+### Databases
 
-<details>
-  <br />
-  <summary><b>⚙️ Things I use to get stuff done</b></summary>
-    <ul>
-      <li><b>OS:</b> Windows 11</li>
-      <li><b>Code Editor:</b> VSCode, Jupyter Notebooks, ...</li>
-      <li><b>Database:</b> MS SQL Server Management Studio (SSMS), ...</li>
-      <li><b>Visualization:</b> Power BI Desktop</li>
-    </ul>
-</details>
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50"/>
+</p>
 
-#
+### Cloud & Big Data
+
+<p align="left">
+<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="50"/>
+</p>
+
+### Machine Learning & Data Science
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="50"/>
+</p>
+
+### BI & Visualization
+
+<p align="left">
+<img src="https://img.icons8.com/color/48/power-bi.png" width="50"/>
+<img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="50"/>
+</p>
+
+### Development Tools
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50"/>
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lakshan698&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshan698&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=lakshan698&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=lakshan698&theme=algolia&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+## 📚 Currently Learning
+
+```text
+✔ Advanced SQL
+✔ PySpark
+✔ Databricks
+✔ Delta Lake
+✔ Azure Data Engineering
+✔ Machine Learning
+✔ Data Pipelines
+```
+
+---
+
+## 🌟 Featured Areas
+
+### 📊 Data Engineering
+
+- ETL / ELT Pipelines
+- Data Warehousing
+- Delta Lake
+- Data Modeling
+- Spark Processing
+
+### 🤖 Artificial Intelligence & Machine Learning
+
+- Data Preprocessing
+- Model Building
+- Feature Engineering
+- Predictive Analytics
+- Deep Learning Fundamentals
+
+### ☁️ Cloud Technologies
+
+- Azure Fundamentals
+- Data Lake Storage
+- Cloud Data Engineering
+
+---
+
+## ⚡ Fun Fact
+
+> I enjoy turning raw data into insights and transforming ideas into real-world solutions.
+
+---
 
 <div align="center">
-  <h3>Show some ❤️ by starring some of the repositories!</h3>
+
+### Show some ❤️ by starring my repositories!
+
 </div>
