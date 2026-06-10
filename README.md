@@ -12,7 +12,7 @@ I'm an explorer of new tech, an avid learner, and a problem-solver at heart.
 
 <hr>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text= CASE:It's not possible. COOPER:No.It'snecessary.&fontSize=24&animation=fadeIn" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=4000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=CASE%3A+It's+not+possible.;COOPER%3A+No.+It's+necessary." />
 </p>
 <hr>
 
