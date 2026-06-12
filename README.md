@@ -37,6 +37,15 @@ I'm an explorer of new tech, an avid learner, and a problem-solver at heart.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" title="VS Code" width="40" height="40"/>
 </p>
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lakshan698/lakshan698/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lakshan698/lakshan698/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lakshan698/lakshan698/output/github-contribution-grid-snake.svg">
+</picture>
+
+
+
 <br/><br/>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=26&duration=4500&pause=1200&color=58A6FF&center=true&vCenter=true&width=1000&lines=Keep+Learning.;Keep+Building.;Keep+Growing." />
