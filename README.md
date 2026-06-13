@@ -9,7 +9,8 @@ I am a **Data Science Undergraduate** at **SLIIT**, passionate about applying da
 I am passionate about **Data Engineering, AI/ML**. I enjoy building scalable end to end data pipelines, designing data solutions, and leveraging machine learning to solve real-world problems.
  
 I'm an explorer of new tech, an avid learner, and a problem-solver at heart.
-<br/>
+<br/><br/>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=CASE:%20It's%20not%20possible.%20%7C%20COOPER:%20No.%20It's%20necessary.&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
