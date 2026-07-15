@@ -20,6 +20,8 @@ I'm an explorer of new tech, an avid learner, and a problem-solver at heart.
 
 ### Talking about Personal Stuff:
 
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
 - 🛠 &nbsp; I’m currently working & learning **Python, SQL, Pyspark, Databricks, Cloud platforms and more...**.
 - 👨‍💻 &nbsp; Most of my projects are available on [GitHub](https://github.com/lakshan698).
 - 👾 &nbsp; Fun fact: I love turning coffee into code and data into insights.
