@@ -2,7 +2,7 @@
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thanuja-lakshan-50411b386/)
-[![Portfolio](https://img.shields.io/badge/VIEW_PORTFOLIO-Visit_Now-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lakshan-portfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/VIEW_PORTFOLIO-Visit_Now-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lakshan-portfolio-sable.vercel.app/)
 
 
 ### Glad to see you here! 
