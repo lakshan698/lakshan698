@@ -1,6 +1,7 @@
 ## Hey there 👋, I'm [Thanuja Lakshan!](https://github.com/lakshan698/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thanuja-lakshan-50411b386/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://lakshan-portfolio.vercel.app)
 
 ### Glad to see you here! 
 
